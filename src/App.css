@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+
+.line{
+    width: 100%;
+    height: 1px;
+    background: #0000003d;
+}
