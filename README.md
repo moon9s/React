@@ -1,16 +1,22 @@
-# React + Vite
+<h1>Hello this is my First React Project</h1>
+<h2>Project Name : Tavani</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2> Description</h2>
+<p>
+ 
+Tavani is a specialized e-commerce platform dedicated to medical equipment and healthcare supplies. Built with React.js and Tailwind CSS, this project focuses on providing a clean, accessible, and high-performance user interface for users to browse and purchase medical devices. <br>
+<h2>Key Features</h2>
+ Dynamic Navigation: A custom-built accordion menu system for efficient category browsing. <br>
+ Responsive Design: A mobile-first, fully adaptive layout ensures a seamless shopping experience on both smartphones and desktops. <br>
+ Optimized UI Components: Features interactive elements, including togglable search bars and state-driven icons. <br>
+ State Management: Efficiently handles component visibility and user interactions using React hooks. <br>
+ Clean Code Architecture: Modular component structure with a focus on maintainability and performance. <br>
+<h2>Technologies Used</h2>
+ Frontend: React.js <br>
+ Styling: Tailwind CSS <br>
+ Icons: Bootstrap Icons <br>
+ Routing: React Router</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<a href="https://react.moonishere-9s.workers.dev/">ONLINE DEMO<a/>
